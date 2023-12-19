@@ -10,6 +10,6 @@
 - If you are interested, kindly connect with me on:
 - Email: Kerolosmorcos3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kerolos-morcos-388182262
-- WhatsApp: https://wa.link/1cnroe
+- WhatsApp: https://wa.link/uoi653
 
 - Thanks!
