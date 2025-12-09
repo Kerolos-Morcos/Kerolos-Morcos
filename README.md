@@ -137,7 +137,7 @@
 <!-- ===================================================== -->
 <!-- 💰 DONATION -->
 <!-- ===================================================== -->
-## 💰 Support Me
+## 💰 Buy Me A Coffe
 <p align="center">
   <a href="https://paypal.me/KerolosMorcosSalama">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&hide_border=true"/>
