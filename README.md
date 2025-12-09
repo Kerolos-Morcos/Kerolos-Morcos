@@ -75,9 +75,9 @@
   border: 1px solid rgba(255,255,255,0.15);
   width: 85%;
 ">
-<!-- ===================================================== -->
-<!-- ### 🚀 My Core Technologies -->
-<!-- ===================================================== -->
+
+  
+### 🚀 My Core Technologies 
 🔥 Vue.js • Node.js • MongoDB • MySQL • Flutter • React  
 🔥 REST APIs • Authentication • Clean Architecture  
 </div>
