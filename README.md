@@ -104,7 +104,7 @@
 <!-- ===================================================== -->
 ## 🌐 Socials
 <p align="center">
-  <a href="https://linkedin.com/in/kerolos-morcos-388182262">
+  <a href="https://linkedin.com/in/kerolos-morcos-388182262" [data-a11y-link-underlines=false]>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kerolosmorcos3@gmail.com">
