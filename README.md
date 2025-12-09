@@ -2,7 +2,7 @@
 <!-- 🔥 ANIMATED HEADER -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Kerolos+Morcos;Full-Stack+Developer;Flutter+Developer;Node.js+%7C+Flutter+%7C+React+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Kerolos+Morcos;Full-Stack+Web Developer;Flutter+Developer;Vue.js+%7C+Node.js+%7C+MongoDB+%7C+Flutter" />
 </p>
 
 <!-- ===================================================== -->
