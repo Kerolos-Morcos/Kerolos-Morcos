@@ -149,12 +149,3 @@
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
-
----
-
-<!-- ===================================================== -->
-<!-- 🌊 WAVY FOOTER -->
-<!-- ===================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0EA5E9&height=120&section=footer" />
-</p>
