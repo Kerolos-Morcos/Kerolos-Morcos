@@ -77,7 +77,7 @@
 ">
 
 ### 🚀 My Core Technologies  
-🔥 Node.js • Flutter • Vue.js • React • MongoDB • MySQL  
+🔥 Vue.js • Node.js • MongoDB • MySQL • Flutter • React  
 🔥 REST APIs • Authentication • Clean Architecture  
 </div>
 
@@ -89,11 +89,11 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,flutter,dart,react,vue,git,github,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,js,ts,tailwind,bootstrap,git,github,figma,express,mongodb,mysql,flutter,dart,react" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,firebase,jest,postman,c,cpp,cs,vite" />
+  <img src="https://skillicons.dev/icons?i=redux,firebase,jest,postman,c" />
 </p>
 
 ---
