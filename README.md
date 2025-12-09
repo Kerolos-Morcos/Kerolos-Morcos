@@ -1,22 +1,159 @@
-# 💫 About Me:
-- Hello, I’m **Kerolos Morcos**!<br><br>- I'm a **Full-Stack Web Developer & Mobile Developer** using Node JS & Flutter.<br>- Graduated from: **Information Technology Institute in Egypt (ITI)** and attended 2 tracks: [Software Development Fundamentals Track], [Frontend & Cross-Platform Mobile Development Track].<br>- Took Full-Stack Diploma At Route Academy. <br>- Got proven technical skills in:<br>  **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, Vue.js, Vuex, React, Redux, Bootstrap, Tailwind CSS, SCSS, Responsive Design, Web Animation.<br>  **Backend**: Node.js, Express.js, RESTful API Development, Authentication (JWT), MongoDB, Mongoose, SQL basics, mySQL, Async Programming, Error Handling, MVC Architecture.<br>  **Mobile** (Flutter): Dart, State Management (Bloc & Cubit), Streams, Async/Await, Hive as Local Storage, Dio & HTTP packages for API handling, Flutter Widgets & Packages, Responsive UI, Flutter Animations, <br>  Flutter WebView, Clean Architecture, MVVM, Theming.<br>  **Other Skills**: C, C++, OOP, C#, Git & GitHub, Problem Solving.<br><br>- I’m currently freelancing on various platforms and **open to new opportunities**.<br><br>- You can reach me at:<br>- Email: Kerolosmorcos3@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/kerolos-morcos-388182262<br><br>- Thanks!<br>
+<!-- ===================================================== -->
+<!-- 🔥 ANIMATED HEADER -->
+<!-- ===================================================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Kerolos+Morcos;Full-Stack+Developer;Flutter+Developer;Node.js+%7C+Flutter+%7C+React+%7C+MongoDB" />
+</p>
 
+<!-- ===================================================== -->
+<!-- ✨ COLORFUL DIVIDER -->
+<!-- ===================================================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
+<!-- ===================================================== -->
+<!-- 💫 ABOUT TITLE (Capsule Render) -->
+<!-- ===================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:5B21B6&height=80&section=header&text=About%20Me&fontSize=35&fontColor=fff" />
+</p>
+
+<!-- ===================================================== -->
+<!-- 📌 ABOUT SECTION -->
+<!-- ===================================================== -->
+## 💫 About Me:
+- Hello, I’m **Kerolos Morcos** — a **Full-Stack Web Developer & Mobile Developer** specialized in **Node.js & Flutter**.  
+- Graduated from the **Information Technology Institute (ITI)** – Software Development Fundamentals & Frontend + Cross-Platform Mobile Development Tracks.  
+- Completed a **Full-Stack Diploma at Route Academy**.  
+- I build **scalable web apps**, **powerful APIs**, and **clean, high-performance mobile applications** with Flutter.  
+- Currently working as a freelancer and **open to new opportunities**.
+
+---
+
+<!-- ===================================================== -->
+<!-- ⚡ WHAT I DO -->
+<!-- ===================================================== -->
+## ⚡ What I Do
+- Full-stack web development (Node.js, Express, MongoDB, MySQL).  
+- Build clean & scalable mobile apps with Flutter (Bloc, Cubit, Clean Architecture).  
+- Develop modern responsive frontends (Vue.js / React / Tailwind).  
+- Create and integrate RESTful APIs with secure authentication.  
+- Focus on clean code principles and maintainable architecture.
+
+---
+
+<!-- ===================================================== -->
+<!-- 🚀 FOCUS AREAS -->
+<!-- ===================================================== -->
+## 🎯 My Focus Areas
+✔ Full-Stack Web Development  
+✔ Flutter Cross-Platform Apps  
+✔ Clean Architecture & State Management  
+✔ UI/UX Driven Frontend Engineering  
+✔ API Design & Performance Optimization  
+
+---
+
+<!-- ===================================================== -->
+<!-- 🏆 HIGHLIGHTS -->
+<!-- ===================================================== -->
+## 🏆 Highlights
+- Built multiple full-stack applications with authentication, dashboards, and API integration.  
+- Hands-on experience with state management, async patterns, and scalable architecture.  
+- Strong freelancing background delivering production-ready solutions.
+
+---
+
+<!-- ===================================================== -->
+<!-- 🧊 GLASS CARD (SKILLS SUMMARY) -->
+<!-- ===================================================== -->
+<div align="center" style="
+  padding: 20px;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.2);
+">
+
+### 🚀 My Core Technologies  
+🔥 Node.js • Flutter • Vue.js • React • MongoDB • MySQL  
+🔥 REST APIs • Authentication • Clean Architecture  
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!-- 🛠 TECH STACK GRID -->
+<!-- ===================================================== -->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,express,mongodb,mysql,flutter,dart,git,github,figma,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,redux,vite,postman,jest,firebase" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!-- 🌐 SOCIALS -->
+<!-- ===================================================== -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerolos-morcos-388182262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kerolosmorcos3@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/kerolos-morcos-388182262">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kerolosmorcos3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+<!-- ===================================================== -->
+<!-- 📊 GITHUB STATS -->
+<!-- ===================================================== -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kerolos-Morcos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kerolos-Morcos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Morcos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerolos-Morcos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kerolos-Morcos&theme=dark&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Morcos&theme=dark&hide_border=false&layout=compact" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KerolosMorcosSalama) 
+<!-- ===================================================== -->
+<!-- ✍️ RANDOM DEV QUOTE -->
+<!-- ===================================================== -->
+### ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- ===================================================== -->
+<!-- 💰 DONATION -->
+<!-- ===================================================== -->
+## 💰 You can help me by Donating  
+<p align="center">
+  <a href="https://paypal.me/KerolosMorcosSalama">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!-- 🌊 WAVY FOOTER -->
+<!-- ===================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0EA5E9&height=120&section=footer" />
+</p>
