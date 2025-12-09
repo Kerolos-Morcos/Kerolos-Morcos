@@ -23,10 +23,10 @@
 <!-- 📌 ABOUT SECTION -->
 <!-- ===================================================== -->
 ## 💫 About Me
-- Hello, I’m **Kerolos Morcos** — a **Full-Stack Web & Mobile Developer** specialized in **Node.js & Flutter**.  
+- Hello, I’m **Kerolos Morcos** — a **Full-Stack Web & Mobile Developer** specialized in **Vue, Node.js & Flutter**.  
 - Graduated from the **Information Technology Institute (ITI)** – Software Development Fundamentals & Frontend + Cross-Platform Mobile Development Tracks.  
 - Completed a **Full-Stack Diploma at Route Academy**.  
-- I build **scalable web apps**, **powerful APIs**, and **clean, high-performance mobile applications** with Flutter.  
+- I build **scalable web apps** and **clean, high-performance mobile applications** with Flutter.  
 - Currently working as a freelancer and **open to new opportunities**.
 
 ---
@@ -35,9 +35,9 @@
 <!-- ⚡ WHAT I DO -->
 <!-- ===================================================== -->
 ## ⚡ What I Do
-- Full-stack development (Node.js, Express, MongoDB, MySQL).  
+- Full-stack development (Node.js, MongoDB, MySQL).
+- Develop modern responsive frontends (Vue.js / React / Tailwind).    
 - Build clean, scalable mobile apps with Flutter (Bloc, Cubit, Clean Architecture).  
-- Develop modern responsive frontends (Vue.js / React / Tailwind).  
 - API development, secure authentication & integration.  
 - Clean code, modular architecture, and performance optimization.
 
@@ -50,8 +50,7 @@
 ✔ Full-Stack Development  
 ✔ Flutter Cross-Platform Apps  
 ✔ Clean Architecture  
-✔ UI/UX Driven Frontend  
-✔ API Design & Optimization  
+✔ UI/UX Driven Frontend
 
 ---
 
@@ -137,6 +136,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
 
 <!-- ===================================================== -->
 <!-- 💰 DONATION -->
