@@ -110,16 +110,6 @@
 ---
 
 <!-- ===================================================== -->
-<!-- 📊 GITHUB STATS -->
-<!-- ===================================================== -->
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kerolos-Morcos&theme=dark&hide_border=false" />
-</p>
-
----
-
-<!-- ===================================================== -->
 <!-- ✍️ Everyday Dev QUOTE -->
 <!-- ===================================================== -->
 ### ✍️ Everyday Dev Quote
